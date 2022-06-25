@@ -1,7 +1,7 @@
 package com.portfolio.springboot.security.entity;
 
 
-import jdk.jfr.Enabled;
+//import jdk.jfr.Enabled;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
